@@ -223,7 +223,8 @@ const TaggingTool = () => {
 
 	let trainData = {
 		'words': data[currentIndex],
-		'tags': tagData[currentIndex]
+		'tags': tagData[currentIndex],
+		'color': colorData[currentIndex],
 	}
 	
 	// const jsonString = JSON.stringify(trainData[currentIndex], null, 2);
