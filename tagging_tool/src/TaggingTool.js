@@ -122,6 +122,24 @@ const TaggingTool = () => {
 		
 		console.log('./data/'+window.location.href.split('/')[4])
 	//     const response = await fetch('./DanangHoian_490222071180065.json'); // Replace with the actual path to your JSON file
+
+	    try{
+		let path = './data/'+ window.location.href.split('/')[4].split('.')[0]
+		path = path + '_tag.json'
+		const data1 = require(path)
+		
+
+		setDependenceData(data1['dependenceData'])
+		setColorData(data1['colorData'])
+		setTagData(data1['tagData'])
+		setData(data1['data']);
+		setDependence(data1['dependence'])
+		setCurrentIndex(data1['currentIndex'])
+		
+	    }
+	    catch(err) {
+
+	    
 	    const data1 = require('./data/'+window.location.href.split('/')[4]);
 	    let postData = []
 	    for(let i=0;i<data1.length; i++){
@@ -156,6 +174,8 @@ const TaggingTool = () => {
 	     setColorData(tempColorData)
 	     setTagData(tempTagData)
 	     setData(postData);
+
+		}
 	    
 
 	  } catch (error) {
@@ -208,23 +228,29 @@ const TaggingTool = () => {
 
 
   const moveNext = ()=>{
-	
-	setCurrentIndex(currentIndex+1)
+	if (currentIndex < data.length)
+		setCurrentIndex(currentIndex+1)
+	else
+		alert('No Next')
   }
 
   const movePrev = ()=>{
-	setCurrentIndex(currentIndex-1)
+	if(currentIndex > 0)
+		setCurrentIndex(currentIndex-1)
+	else 
+		alert('No Previous')
   }
   console.log(dependenceData)
 
   const saveData = ()=>{
 
-
-
 	let trainData = {
-		'words': data[currentIndex],
-		'tags': tagData[currentIndex],
-		'color': colorData[currentIndex],
+		'data': data[currentIndex],
+		'tagData': tagData[currentIndex],
+		'colorData': colorData[currentIndex],
+		'dependenceData': dependenceData[currentIndex],
+		'dependence': dependence,
+		'currentIndex': currentIndex
 	}
 	
 	// const jsonString = JSON.stringify(trainData[currentIndex], null, 2);
@@ -234,33 +260,6 @@ const TaggingTool = () => {
 			'outputFile': window.location.href.split('/')[4].split(".")[0] 
     
 		})
-// 	const visitedObjects = new WeakSet();
-// 	var fs = require('fs');
-
-
-// 	const filePath = 'output.json';
-// // 	// Convert the trainData array to a JSON string with circular reference handling
-// 	const jsonString = JSON.stringify(trainData, null, 2);
-
-// 	// Use fs.writeFile with a callback function
-// 	fs.writeFile(filePath, jsonString, 'utf-8', function(err, result) {
-// 		if(err) console.log('error', err);
-// 	    });
-      
-//       // Create a Blob containing the JSON string
-//       const blob = new Blob([jsonString], { type: 'application/json' });
-         
-//       // Create a download link
-//       const downloadLink = document.createElement('a');
-//       downloadLink.href = URL.createObjectURL(blob);
-//       downloadLink.download = 'trainData.json';
-         
-//       // Append the link to the document and trigger a click event
-//       document.body.appendChild(downloadLink);
-//       downloadLink.click();
-      
-//       // Clean up by removing the link from the document
-//       document.body.removeChild(downloadLink);
 
 
   }

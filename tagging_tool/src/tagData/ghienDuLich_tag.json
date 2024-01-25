@@ -1,39 +1,36 @@
 [
+  {},
   {
-    "words": [
-      "Cùng",
-      "anh",
-      "băng",
-      "qua",
-      "bao",
-      "đại",
-      "dương",
-      "Cùng",
-      "anh",
-      "đi",
-      "vượt",
-      "",
-      "ngàn",
-      "con",
-      "đường….🌷🍀",
-      "Cuối",
-      "năm",
-      "rồi",
-      "cần",
+    "data": [
+      "Nhà",
+      "thờ",
+      "lớn",
+      "Hà",
+      "Nội",
+      "trang",
+      "hoàng",
+      "đẹp",
       "lắm",
-      "một",
-      "chuyên",
-      "đi",
-      "vu",
-      "vi",
-      "cùng",
-      "người",
-      "iu",
-      "ạa😍",
-      "",
+      "luôn.",
+      "Trời",
+      "cũng",
+      "hửng",
+      ",",
+      "lên",
+      "phố",
+      "thôi.",
+      "Đừng",
+      "trong",
+      "chăn",
+      "nữa.🌷",
+      "Ảnh:",
+      "Trần",
+      "Tài",
       "#ghiendulich"
     ],
-    "tags": [
+    "tagData": [
+      "O",
+      "O",
       "O",
       "O",
       "O",
@@ -56,18 +53,115 @@
       "O",
       "O",
       "O",
-      "O",
-      "O",
-      "O",
-      "O",
-      "O",
-      "O",
-      "O",
-      "O",
       "O"
-    ]
+    ],
+    "colorData": [
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "red",
+      "red",
+      "red",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white"
+    ],
+    "dependenceData": [
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      }
+    ],
+    "dependence": [],
+    "currentIndex": 1
   },
-  {},
   {},
   {},
   {},

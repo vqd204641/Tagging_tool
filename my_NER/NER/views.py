@@ -18,10 +18,10 @@ def SaveFile(request):
         # python_object = json.loads(data)
 
         current_path = os.getcwd()
-        two_levels_up = os.path.abspath(os.path.join(current_path, '..', '..'))
+        two_levels_up = os.path.abspath(os.path.join(current_path, '..'))
 
 
-        file_path = two_levels_up + fileName + "_tag.json"
+        file_path = two_levels_up + '/tagging_tool/src/tagData/' +fileName + "_tag.json"
 
         print(file_path)
 
@@ -41,6 +41,8 @@ def SaveFile(request):
                 tempData = json.load(json_file)
 
         tempData[index] = jsonData
+
+
 
 
         with open(file_path, 'w', encoding='utf-8') as json_file:
