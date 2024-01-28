@@ -22,24 +22,26 @@ const keyTag = {
 		 'q':"Regulation",
 		 'l':"Contact",
 		 'f':"Food",
-		't': "time",
-		'm':'tips'
+		't': "Time",
+		'm':'Tips',
+		'e': 'ObjectEntity'
 }
 
 const colorTag = {
-	'r': 'red',
-	'a': '#FF461F',
-	 'c': '#F47983',
-	 'v': '#FF143c',
-	 'h': '#FFC773',
-	 'p': '#70F3FF',
-	 'u': '#4B5CC4',
-	 'd': "#BCE672",
-	 'q': "#75664D",
-	 'l': "#FF2D51",
-	 'f': "#DB5A6B",
-	't': "#FFA631",
-	'm': 'blue'
+	'r': '#FF5733',
+	'a': '#33FF57',
+	 'c': '#5733FF',
+	 'v': '#FFD700',
+	 'h': '#00CED1',
+	 'p': '#FF6347',
+	 'u': '#8A2BE2',
+	 'd': "#32CD32",
+	 'q': "#FF69B4",
+	 'l': "#00FF7F",
+	 'f': "#8B4513",
+	't': "#1E90FF",
+	'm': '#FF8C00',
+	'e': '#6A5ACD'
 }
 
 
@@ -505,7 +507,6 @@ const TaggingTool = () => {
 				    tempTagData[currentIndex][selectedWords[i] +1] = 'I-' + tag
 		}
 
-		
 	}
 	else{
 
@@ -757,29 +758,33 @@ const TaggingTool = () => {
     // Add your logic for key-color mapping
     switch (key) {
 	case 'r':
-		return 'red';
+		return '#FF5733';
 	case 'a':
-		return '#FF461F';
+		return '#33FF57';
 	case 'c':
-		return '#F47983';
+		return '#5733FF';
 	case 'v':
-		return '#FF143c'
+		return '#FFD700'
 	case 'h':
-		return '#FFC773'
+		return '#00CED1'
 	case 'p':
-		return '#70F3FF'
+		return '#FF6347'
 	case 'u':
-		return '#4B5CC4'
+		return '#8A2BE2'
 	case 'd':
-		return "#BCE672"
+		return "#32CD32"
 	case 'q':
-		return "#75664D"
+		return "#FF69B4"
 	case 'l':
-		return "#FF2D51"
+		return "#00FF7F"
 	case 'f':
-		return "#DB5A6B"
+		return "#8B4513"
 	case 't':
-		return "#FFA631"
+		return "#1E90FF"
+	case 'm':
+		return "#FF8C00"
+	case 'e':
+		return "#6A5ACD"
 	case 'o':
 		return "white"
 	default:
@@ -816,7 +821,11 @@ const TaggingTool = () => {
 	  case 'f':
 		return "Food"
 	  case 't':
+		return "Time"
+	  case 'm':
 		return "Tips"
+	  case 'e':
+		return "ObjectEntity"
 	  case 'o':
 		return "O"
 	  default:
@@ -924,7 +933,7 @@ console.log(dependenceData)
 
       </div>
 
-      <div style={{width:'20%', marginTop:'30px'}} >
+      <div style={{width:'28%', marginTop:'30px'}} >
 	<div>
 		<h2 style={{ textAlign:'center'}} >Danh sách các entity</h2>
 		<Grid container spacing={3}>
