@@ -119,27 +119,40 @@ const TaggingTool = () => {
 //   }, [data])
   
   useEffect(() => {
-	const fetchData = () => {
+	const fetchData = async () => {
 	  try {
 		
-		console.log('./data/'+window.location.href.split('/')[4])
+		// console.log('./data/'+window.location.href.split('/')[4])
 	//     const response = await fetch('./DanangHoian_490222071180065.json'); // Replace with the actual path to your JSON file
 
 	    try{
-		let path = './data/'+ window.location.href.split('/')[4].split('.')[0]
+		let path = './tagData/'+ window.location.href.split('/')[4].split('.')[0]
 		path = path + '_tag.json'
-		const data1 = require(path)
-		
 
-		setDependenceData(data1['dependenceData'])
-		setColorData(data1['colorData'])
-		setTagData(data1['tagData'])
-		setData(data1['data']);
-		setDependence(data1['dependence'])
-		setCurrentIndex(data1['currentIndex'])
+		console.log(path)
+		const data1 = require('./tagData/'+ window.location.href.split('/')[4].split('.')[0]+'_tag.json')
+		
+		console.log(data1)
+
+		const newData = data1.map(obj => obj['data'] !== undefined ? obj['data'] : []);
+		const newDependenceData = data1.map(obj => obj['dependenceData'] !== undefined ? obj['dependenceData'] : [] );
+		const newColorData = data1.map(obj => obj['colorData'] !== undefined ? obj['colorData'] : [] ) ;
+		const newDependence = data1.map(obj => obj['dependence'] !== undefined ? obj['dependence'] : [] );
+		const newTagData = data1.map(obj => obj['tagData'] !== undefined ? obj['tagData'] : []);
+
+		console.log(newData)
+	
+
+		 setDependenceData([...newDependenceData])
+		 setColorData(newColorData)
+		 setTagData(newTagData)
+		 setData([...newData]);
+		 setDependence(newDependence)
+		 setCurrentIndex(data1[0]['currentIndex'])
 		
 	    }
 	    catch(err) {
+		console.log(err)
 
 	    
 	    const data1 = require('./data/'+window.location.href.split('/')[4]);
@@ -171,7 +184,7 @@ const TaggingTool = () => {
 		const newArray = Array.from({ length: postData[i].length }, () => ({ role: 'O' }));
 		tempDependenceData.push(newArray)
 	    }
-
+	    
 	     setDependenceData(tempDependenceData)
 	     setColorData(tempColorData)
 	     setTagData(tempTagData)
@@ -196,12 +209,20 @@ const TaggingTool = () => {
 		// fetchData();
 		// let storedData = localStorage.getItem(LOCAL_STORAGE_KEY);
 		// alert(1)
+		
 		fetchData()
+
+		console.log(data)
+		// alert(1)
 		// localStorage.setItem("checkReload", JSON.stringify(1));
 	}
 	else {
+		alert(1)
 		
 		if (storedData) {
+		console.log(storedData)
+		alert(1)
+
 		const parsedData = JSON.parse(storedData);
 
 		
@@ -209,14 +230,14 @@ const TaggingTool = () => {
 		
 		// Set your state variables using the parsed data
 	
-		setData(parsedData.data);
-		setTagData(parsedData.tagData);
-		setColorData(parsedData.colorData);
-		setDependenceData(parsedData.dependenceData)
-		setSelectedWords(parsedData.selectedWords);
-		setSelectedText(parsedData.selectedText);
-		setRange(parsedData.range);
-		setCurrentIndex(parsedData.currentIndex);
+		// setData(parsedData.data);
+		// setTagData(parsedData.tagData);
+		// setColorData(parsedData.colorData);
+		// setDependenceData(parsedData.dependenceData)
+		// setSelectedWords(parsedData.selectedWords);
+		// setSelectedText(parsedData.selectedText);
+		// setRange(parsedData.range);
+		// setCurrentIndex(parsedData.currentIndex);
 			}
 		
 	}
@@ -228,6 +249,8 @@ const TaggingTool = () => {
 	
       }, []); // The empty dependency array ensures that this effect runs only once on component mount
 
+      if(data=== undefined)
+      	return <div></div>
 
   const moveNext = ()=>{
 	if (currentIndex < data.length)
@@ -268,7 +291,7 @@ const TaggingTool = () => {
 
   
 
-  console.log(dependenceData)
+  console.log(data)
   const handleSelection = () => {
 	const selection = window.getSelection();
 	if (selection) {
@@ -868,15 +891,16 @@ const spanStyle = {
 console.log(dependenceData)
 
   return (
-    <div style={{display:'flex'}} >
+<div>
+	<div style={{display:'flex'}} >
 
 	{/* <h1 style={{marginBottom:'30px'}} >Tagging Tool</h1> */}
 
 	<div style={{width:'75%'}} >
 
-	<div style={{marginTop:'20px', textAlign:'center'}} >
+	{data !== undefined && <div style={{marginTop:'20px', textAlign:'center'}} >
 			{currentIndex+1}/{data.length}
-	</div>
+	</div>}
 
       <div
 	style = {{margin:'auto', width:'90%', border: '1px solid #1A43BF', borderRadius:'10px', marginTop:'5px', padding:'10px', height:'450px',overflowY:'scroll'}}
@@ -950,14 +974,15 @@ console.log(dependenceData)
 	</div>
 	<div style={{marginTop:'30px'}} >
 		<h2 style = {{textAlign:'center'}} >Liên kết của các entity</h2>
-		{dependence.map(d=>(
-			<div style={{display:'flex'}} >
-				<div>{d.index}</div>
-				<div style={{marginLeft:'10px'}} >{d.root}</div>
-				{d.leaves.map(l=>(
-					<div style={{marginLeft:'10px'}} >{l}</div>
-				))}
-
+		{dependence.length > 0 && dependence.map(d=>(
+			<div>
+				{d.root && <div style={{display:'flex'}} >
+					<div>{d.index}</div>
+					<div style={{marginLeft:'10px'}} >{d.root}</div>
+					{d.leaves.map(l=>(
+						<div style={{marginLeft:'10px'}} >{l}</div>
+					))}
+				</div>}
 			</div>
 		))}
 	</div>
@@ -965,6 +990,7 @@ console.log(dependenceData)
 
 
     </div>
+</div>
   );
 };
 

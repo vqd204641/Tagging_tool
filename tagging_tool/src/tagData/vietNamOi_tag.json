@@ -1,0 +1,7788 @@
+[
+  {
+    "data": [
+      "Bình",
+      "yên",
+      "!❤️"
+    ],
+    "tagData": [
+      "B-Description",
+      "I-Description",
+      "O"
+    ],
+    "colorData": [
+      "#32CD32",
+      "#32CD32",
+      "white"
+    ],
+    "dependenceData": [
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      }
+    ],
+    "dependence": [],
+    "currentIndex": 0
+  },
+  {
+    "data": [
+      "Ai",
+      "lên",
+      "Hà",
+      "Giang",
+      "mùa",
+      "xuân",
+      "Mới",
+      "biết",
+      "thế",
+      "nào",
+      "là",
+      "\"hoa",
+      "nở",
+      "trên",
+      "đá\"",
+      "🌸🍃",
+      "Không",
+      "giống",
+      "như",
+      "sắc",
+      "xuân",
+      "dưới",
+      "miền",
+      "xuôi",
+      "với",
+      "màu",
+      "đỏ",
+      "tràn",
+      "ngập",
+      "khắp",
+      "nơi",
+      "khi",
+      "Tết",
+      "đến",
+      "xuân",
+      "về,",
+      "màu",
+      "Tết",
+      "của",
+      "Hà",
+      "Giang",
+      "là",
+      "màu",
+      "\"hoa",
+      "nở",
+      "trên",
+      "đá\"",
+      "đúng",
+      "như",
+      "tên",
+      "gọi",
+      "kinh",
+      "điển",
+      "của",
+      "nơi",
+      "này.",
+      "Màu",
+      "Tết",
+      "đôi",
+      "khi",
+      "là",
+      "màu",
+      "hoa",
+      "lê",
+      "hoa",
+      "mận",
+      "nở",
+      "trắng",
+      "những",
+      "bản",
+      "làng,",
+      "có",
+      "lúc",
+      "là",
+      "màu",
+      "hồng",
+      "rực",
+      "của",
+      "những",
+      "cành",
+      "đào",
+      "rừng",
+      "bung",
+      "nở",
+      "khắp",
+      "miền",
+      "đá.",
+      "Màu",
+      "Tết",
+      "còn",
+      "là",
+      "màu",
+      "vàng",
+      "tươi",
+      "của",
+      "những",
+      "bông",
+      "cúc",
+      "cam,",
+      "hoa",
+      "cải",
+      "vàng",
+      "^^",
+      "Xuân",
+      "này",
+      "hay",
+      "là",
+      "lên",
+      "Hà",
+      "Giang",
+      "làm",
+      "chuyến",
+      "khởi",
+      "đầu",
+      "năm",
+      "mới",
+      "nhỉ",
+      "🥹",
+      "Ảnh:",
+      "Giàng",
+      "A",
+      "Phớn",
+      "#vietnamoi"
+    ],
+    "tagData": [
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "B-Time",
+      "I-Time",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "B-Time",
+      "I-Time",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ],
+    "colorData": [
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "#1E90FF",
+      "#1E90FF",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "#1E90FF",
+      "#1E90FF",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white"
+    ],
+    "dependenceData": [
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      }
+    ],
+    "dependence": [],
+    "currentIndex": 1
+  },
+  {
+    "data": [
+      "Nhà",
+      "Thờ",
+      "Lớn",
+      "lung",
+      "linh",
+      "huyền",
+      "ảo",
+      "đón",
+      "Noel",
+      "...",
+      "🎄🎅🧑‍🎄",
+      "Noel",
+      "năm",
+      "nay",
+      "hy",
+      "vọng",
+      "không",
+      "lạnh,",
+      "vì",
+      "vẫn",
+      "chưa",
+      "tìm",
+      "được",
+      "bàn",
+      "tay",
+      "ấm",
+      "để",
+      "nắm",
+      "🤭🤭🤭",
+      "📸",
+      "kayyliin._",
+      "-",
+      "Nguyễn",
+      "Mỹ",
+      "Linh",
+      "#vietnamoi"
+    ],
+    "tagData": [
+      "B-AccomodationName",
+      "I-AccomodationName",
+      "B-Description",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Activity",
+      "I-Activity",
+      "O",
+      "O",
+      "O",
+      "B-Time",
+      "I-Time",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ],
+    "colorData": [
+      "#5733FF",
+      "#5733FF",
+      "#32CD32",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#00CED1",
+      "#00CED1",
+      "white",
+      "white",
+      "white",
+      "#1E90FF",
+      "#1E90FF",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white"
+    ],
+    "dependenceData": [
+      {
+        "ind": 0,
+        "role": "root"
+      },
+      {
+        "ind": 0,
+        "role": "root"
+      },
+      {
+        "ind": 0,
+        "role": "leave"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      }
+    ],
+    "dependence": [
+      {
+        "index": 0,
+        "root": "Nhà Thờ",
+        "leaves": [
+          "Lớn"
+        ]
+      }
+    ],
+    "currentIndex": 2
+  },
+  {},
+  {
+    "data": [
+      "Nét",
+      "mộc",
+      "mạc",
+      ",",
+      "thanh",
+      "bình",
+      "của",
+      "Măng",
+      "Đen",
+      "🇻🇳",
+      "Măng",
+      "Đen",
+      "không",
+      "quá",
+      "vội",
+      "vã",
+      ",",
+      "không",
+      "phồn",
+      "hoa",
+      ",",
+      "nhưng",
+      "Măng",
+      "Đen",
+      "mang",
+      "1",
+      "vẻ",
+      "đẹp",
+      "của",
+      "một",
+      "nàng",
+      "công",
+      "chúa",
+      "-",
+      "còn",
+      "ngủ",
+      "quên",
+      "❤️❤️❤️",
+      "Việt",
+      "Nam",
+      "mình",
+      "đẹp",
+      "thật",
+      "💕",
+      "#ViệtNamƠi"
+    ],
+    "tagData": [
+      "O",
+      "B-Description",
+      "I-Description",
+      "O",
+      "B-Description",
+      "I-Description",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "B-Description",
+      "I-Description",
+      "O",
+      "O",
+      "B-Description",
+      "I-Description",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "B-Description",
+      "O",
+      "O",
+      "O"
+    ],
+    "colorData": [
+      "white",
+      "#32CD32",
+      "#32CD32",
+      "white",
+      "#32CD32",
+      "#32CD32",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "#32CD32",
+      "#32CD32",
+      "white",
+      "white",
+      "#32CD32",
+      "#32CD32",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "#32CD32",
+      "white",
+      "white",
+      "white"
+    ],
+    "dependenceData": [
+      {
+        "role": "O"
+      },
+      {
+        "ind": 20,
+        "role": "leave"
+      },
+      {
+        "ind": 20,
+        "role": "leave"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "ind": 20,
+        "role": "leave"
+      },
+      {
+        "ind": 20,
+        "role": "leave"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "ind": 7,
+        "role": "root"
+      },
+      {
+        "ind": 7,
+        "role": "root"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "ind": 10,
+        "role": "root"
+      },
+      {
+        "ind": 10,
+        "role": "root"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "ind": 22,
+        "role": "leave"
+      },
+      {
+        "ind": 22,
+        "role": "leave"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "ind": 22,
+        "role": "leave"
+      },
+      {
+        "ind": 22,
+        "role": "leave"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "ind": 22,
+        "role": "root"
+      },
+      {
+        "ind": 22,
+        "role": "root"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "ind": 36,
+        "role": "root"
+      },
+      {
+        "ind": 36,
+        "role": "root"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "ind": 36,
+        "role": "leave"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      }
+    ],
+    "dependence": [
+      {
+        "index": 0,
+        "root": "Nhà Thờ",
+        "leaves": [
+          "Lớn"
+        ]
+      },
+      {
+        "index": 7,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "phồn hoa",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 10,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 22,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 38,
+        "root": "Việt Nam",
+        "leaves": [
+          "đẹp"
+        ]
+      }
+    ],
+    "currentIndex": 4
+  },
+  {
+    "data": [
+      "Cuối",
+      "tuần",
+      "đi",
+      "xem",
+      "Hát",
+      "Bội",
+      ",",
+      "hoạt",
+      "động",
+      "được",
+      "diễn",
+      "ra",
+      "mỗi",
+      "cuối",
+      "tuần",
+      "tại",
+      "Lăng",
+      "Lê",
+      "Văn",
+      "Duyệt",
+      ",",
+      "TP.HCM",
+      "📷:",
+      "Thanh",
+      "Dat",
+      "Phan",
+      "#vietnamoi",
+      "#saigonoi"
+    ],
+    "tagData": [
+      "B-Time",
+      "I-Time",
+      "B-Activity",
+      "I-Activity",
+      "I-Activity",
+      "I-Activity",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Time",
+      "I-Time",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "I-AttractionName",
+      "I-AttractionName",
+      "O",
+      "B-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ],
+    "colorData": [
+      "#1E90FF",
+      "#1E90FF",
+      "#00CED1",
+      "#00CED1",
+      "#00CED1",
+      "#00CED1",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#1E90FF",
+      "#1E90FF",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white"
+    ],
+    "dependenceData": [
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      }
+    ],
+    "dependence": [
+      {
+        "index": 0,
+        "root": "Nhà Thờ",
+        "leaves": [
+          "Lớn"
+        ]
+      },
+      {
+        "index": 8,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "phồn hoa",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 11,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 24,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 40,
+        "root": "Việt Nam",
+        "leaves": [
+          "đẹp"
+        ]
+      }
+    ],
+    "currentIndex": 5
+  },
+  {
+    "data": [
+      "🏖",
+      "TỔNG",
+      "HỢP",
+      "REVIEW",
+      "NHỮNG",
+      "ĐỊA",
+      "ĐIỂM",
+      "NHẤT",
+      "ĐỊNH",
+      "PHẢI",
+      "ĐẾN",
+      "TRONG",
+      "THÁNG",
+      "12",
+      "🥳🎉",
+      "Tháng",
+      "12",
+      "đi",
+      "đâu",
+      "là",
+      "câu",
+      "hỏi",
+      "được",
+      "nhiều",
+      "người",
+      "đặt",
+      "ra",
+      "cho",
+      "chuyến",
+      "du",
+      "lịch",
+      "vào",
+      "dịp",
+      "cuối",
+      "năm",
+      "của",
+      "mình.",
+      "Tiết",
+      "trời",
+      "mát",
+      "mẻ",
+      "của",
+      "tháng",
+      "12",
+      "là",
+      "thời",
+      "điểm",
+      "lý",
+      "tưởng",
+      "để",
+      "lên",
+      "kế",
+      "hoạch",
+      "cho",
+      "những",
+      "chuyến",
+      "đi",
+      "thú",
+      "vị",
+      ".",
+      "Dưới",
+      "đây",
+      "là",
+      "1",
+      "số",
+      "gợi",
+      "ý",
+      "do",
+      "Việt",
+      "Nam",
+      "Ơi",
+      "tổng",
+      "hợp,",
+      "mời",
+      "các",
+      "bạn",
+      "tham",
+      "khảo",
+      "nhé!",
+      "❄️",
+      "HÀ",
+      "GIANG",
+      "Review",
+      "Hà",
+      "Giang",
+      "5n4đ",
+      "thảnh",
+      "thơi",
+      "ngắm",
+      "cảnh",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "Những",
+      "điểm",
+      "check",
+      "in",
+      "Hà",
+      "Giang",
+      "không",
+      "thể",
+      "bỏ",
+      "qua:",
+      "Xem",
+      "chi",
+      "tiết",
+      "Review",
+      "chi",
+      "tiết",
+      "chuyến",
+      "đi",
+      "Hà",
+      "Giang",
+      "3n2đ:",
+      "Xem",
+      "chi",
+      "tiết",
+      "Cung",
+      "đường",
+      "đi",
+      "bộ",
+      "sát",
+      "vách",
+      "núi",
+      "đẹp",
+      "sửng",
+      "sốt",
+      "tại",
+      "Hà",
+      "Giang",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "Lịch",
+      "trình",
+      "Hà",
+      "Giang",
+      "-",
+      "Hoàng",
+      "Su",
+      "Phì",
+      "-",
+      "Xín",
+      "Mần",
+      "4n4đ:",
+      "Xem",
+      "chi",
+      "tiết",
+      "❄️",
+      "CAO",
+      "BẰNG",
+      "Lịch",
+      "trình",
+      "tham",
+      "khảo",
+      "vi",
+      "vu",
+      "Cao",
+      "Bằng",
+      "3n2đ:",
+      "Xem",
+      "chi",
+      "tiết",
+      "Những",
+      "địa",
+      "điểm",
+      "nên",
+      "check",
+      "in",
+      "tại",
+      "Cao",
+      "Bằng",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "Tất",
+      "tần",
+      "tật",
+      "kinh",
+      "nghiệm",
+      "du",
+      "lịch",
+      "tại",
+      "Cao",
+      "Bằng",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "Review",
+      "chi",
+      "tiết",
+      "chuyến",
+      "đi",
+      "Cao",
+      "Bằng",
+      "2n2đ:",
+      "Xem",
+      "chi",
+      "tiết",
+      "Cao",
+      "Bằng",
+      "2n2đ:",
+      "đi",
+      "đâu,",
+      "ăn",
+      "gì?",
+      "Xem",
+      "chi",
+      "tiết",
+      "❄️",
+      "MỘC",
+      "CHÂU",
+      "Những",
+      "điểm",
+      "đến",
+      "không",
+      "thể",
+      "bỏ",
+      "qua",
+      "khi",
+      "đến",
+      "Mộc",
+      "Châu",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "Tham",
+      "khảo",
+      "lịch",
+      "trình",
+      "khám",
+      "phá",
+      "Mộc",
+      "Châu",
+      "2n1đ:",
+      "Xem",
+      "chi",
+      "tiết",
+      "Đến",
+      "Mộc",
+      "Châu",
+      "thì",
+      "đi",
+      "đâu,",
+      "chơi",
+      "gì?",
+      "Xem",
+      "chi",
+      "tiết",
+      "Review",
+      "chuyến",
+      "đi",
+      "Mộc",
+      "Châu",
+      "tự",
+      "túc",
+      "3n2đ:",
+      "Xem",
+      "chi",
+      "tiết",
+      "Khám",
+      "phá",
+      "Mộc",
+      "Châu",
+      "mùa",
+      "thu",
+      "hoạch",
+      "chè",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "❄️",
+      "SA",
+      "PA",
+      "Review",
+      "Sa",
+      "Pa",
+      "cho",
+      "người",
+      "đi",
+      "lần",
+      "đầu:",
+      "Xem",
+      "chi",
+      "tiết",
+      "Những",
+      "điểm",
+      "check-in",
+      "siêu",
+      "đẹp",
+      "không",
+      "thể",
+      "bỏ",
+      "qua:",
+      "Xem",
+      "chi",
+      "tiết",
+      "8",
+      "bản",
+      "làng",
+      "bạn",
+      "không",
+      "nên",
+      "bỏ",
+      "lỡ",
+      "khi",
+      "đến",
+      "Sa",
+      "Pa",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "Tổng",
+      "hợp",
+      "những",
+      "địa",
+      "điểm",
+      "nên",
+      "check",
+      "in",
+      "khi",
+      "tới",
+      "Sa",
+      "Pa",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "10",
+      "góc",
+      "check",
+      "in",
+      "miễn",
+      "phí",
+      "tại",
+      "trung",
+      "tâm",
+      "Sa",
+      "Pa",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "Cập",
+      "nhật",
+      "giá",
+      "vé",
+      "các",
+      "địa",
+      "điểm",
+      "du",
+      "lịch",
+      "tại",
+      "Sa",
+      "Pa",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "Review",
+      "chuyến",
+      "đi",
+      "Sa",
+      "Pa",
+      "chữa",
+      "lành",
+      "tâm",
+      "hồn:",
+      "Xem",
+      "chi",
+      "tiết",
+      "❄️",
+      "TÀ",
+      "XÙA",
+      "Kinh",
+      "nghiệm",
+      "chinh",
+      "phục",
+      "thiên",
+      "đường",
+      "mây",
+      "Tà",
+      "Xùa",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "Review",
+      "Tà",
+      "Xùa",
+      "tự",
+      "túc",
+      "3n2đ:",
+      "Xem",
+      "chi",
+      "tiết",
+      "3n3đ",
+      "săn",
+      "mây",
+      "tại",
+      "Tà",
+      "Xùa",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "Tà",
+      "Xùa",
+      "&",
+      "những",
+      "địa",
+      "điểm",
+      "check",
+      "in",
+      "không",
+      "thể",
+      "bỏ",
+      "qua:",
+      "Xem",
+      "chi",
+      "tiết",
+      "❄️",
+      "HÀ",
+      "NỘI",
+      "24h",
+      "trải",
+      "nghiệm",
+      "Hà",
+      "Nội",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "Lịch",
+      "trình",
+      "đi",
+      "chơi",
+      "quanh",
+      "Hà",
+      "Nội",
+      "trong",
+      "24h:",
+      "Xem",
+      "chi",
+      "tiết",
+      "Những",
+      "địa",
+      "điểm",
+      "check-in",
+      "free",
+      "tại",
+      "Hà",
+      "Nội",
+      "khi",
+      "vào",
+      "thu",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "Lịch",
+      "trình",
+      "đi",
+      "quẩy",
+      "xuyên",
+      "đêm",
+      "tại",
+      "Hà",
+      "Nội",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "Khám",
+      "phá",
+      "không",
+      "khí",
+      "Hà",
+      "Nội",
+      "vào",
+      "một",
+      "buổi",
+      "sáng",
+      "đẹp",
+      "trời",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "❄️",
+      "ĐÀ",
+      "LẠT",
+      "Tổng",
+      "hợp",
+      "những",
+      "quán",
+      "cafe",
+      "xịn",
+      "xò",
+      "tại",
+      "Đà",
+      "Lạt",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "Review",
+      "1",
+      "tháng",
+      "ở",
+      "Đà",
+      "Lạt",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "7",
+      "cung",
+      "đường",
+      "khiến",
+      "bạn",
+      "“",
+      "lụi",
+      "tim",
+      "”",
+      "tại",
+      "Đà",
+      "Lạt",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "Tổng",
+      "hợp",
+      "những",
+      "quán",
+      "cafe",
+      "xịn",
+      "xò",
+      "tại",
+      "Đà",
+      "Lạt",
+      ":",
+      "Xem",
+      "chi",
+      "tiết",
+      "Tổng",
+      "hợp",
+      "các",
+      "địa",
+      "điểm",
+      "đậm",
+      "chất",
+      "làng",
+      "quê:",
+      "Xem",
+      "chi",
+      "tiết",
+      "📸",
+      "Hoàng",
+      "Dưỡng",
+      ",",
+      "Nguyễn",
+      "Chí",
+      "Nam",
+      ",",
+      "Do",
+      "Quen",
+      ",",
+      "Ngoc",
+      "Thao",
+      "#vietnamoi"
+    ],
+    "tagData": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Time",
+      "I-Time",
+      "O",
+      "B-Time",
+      "I-Time",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Activity",
+      "I-Activity",
+      "I-Activity",
+      "O",
+      "O",
+      "B-Time",
+      "I-Time",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Description",
+      "I-Description",
+      "O",
+      "B-Time",
+      "I-Time",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Activity",
+      "I-Activity",
+      "B-Description",
+      "I-Description",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "B-Activity",
+      "I-Activity",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Description",
+      "I-Description",
+      "I-Description",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "I-AttractionName",
+      "I-AttractionName",
+      "I-AttractionName",
+      "I-AttractionName",
+      "I-AttractionName",
+      "I-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Activity",
+      "I-Activity",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Activity",
+      "I-Activity",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Activity",
+      "I-Activity",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "B-Activity",
+      "I-Activity",
+      "I-Activity",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Activity",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Activity",
+      "I-Activity",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Activity",
+      "I-Activity",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Activity",
+      "I-Activity",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "B-Activity",
+      "I-Activity",
+      "I-Activity",
+      "O",
+      "B-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Activity",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "B-Time",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Activity",
+      "I-Activity",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "B-Time",
+      "I-Time",
+      "B-Description",
+      "I-Description",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "B-RestaurantName",
+      "I-RestaurantName",
+      "B-Description",
+      "I-Description",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Time",
+      "I-Time",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Description",
+      "I-Description",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-RestaurantName",
+      "I-RestaurantName",
+      "B-Description",
+      "I-Description",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Address",
+      "I-Address",
+      "O",
+      "B-Address",
+      "I-Address",
+      "I-Address",
+      "O",
+      "B-Address",
+      "I-Address",
+      "O",
+      "B-Address",
+      "I-Address",
+      "O"
+    ],
+    "colorData": [
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#1E90FF",
+      "#1E90FF",
+      "white",
+      "#1E90FF",
+      "#1E90FF",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#00CED1",
+      "#00CED1",
+      "#00CED1",
+      "white",
+      "white",
+      "#1E90FF",
+      "#1E90FF",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#32CD32",
+      "#32CD32",
+      "white",
+      "#1E90FF",
+      "#1E90FF",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#00CED1",
+      "#00CED1",
+      "#32CD32",
+      "#32CD32",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "#00CED1",
+      "#00CED1",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#32CD32",
+      "#32CD32",
+      "#32CD32",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "#33FF57",
+      "#33FF57",
+      "#33FF57",
+      "#33FF57",
+      "#33FF57",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#00CED1",
+      "#00CED1",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#00CED1",
+      "#00CED1",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#00CED1",
+      "#00CED1",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "#00CED1",
+      "#00CED1",
+      "#00CED1",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#00CED1",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#00CED1",
+      "#00CED1",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#00CED1",
+      "#00CED1",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#00CED1",
+      "#00CED1",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "#00CED1",
+      "#00CED1",
+      "#00CED1",
+      "white",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#00CED1",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "#1E90FF",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#00CED1",
+      "#00CED1",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "#1E90FF",
+      "#1E90FF",
+      "#32CD32",
+      "#32CD32",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "#FF5733",
+      "#FF5733",
+      "#32CD32",
+      "#32CD32",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#1E90FF",
+      "#1E90FF",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#32CD32",
+      "#32CD32",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#FF5733",
+      "#FF5733",
+      "#32CD32",
+      "#32CD32",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#FFD700",
+      "#FFD700",
+      "white",
+      "#FFD700",
+      "#FFD700",
+      "#FFD700",
+      "white",
+      "#FFD700",
+      "#FFD700",
+      "white",
+      "#FFD700",
+      "#FFD700",
+      "white"
+    ],
+    "dependenceData": [
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "ind": 55,
+        "role": "root"
+      },
+      {
+        "ind": 55,
+        "role": "root"
+      },
+      {
+        "ind": 55,
+        "role": "leave"
+      },
+      {
+        "ind": 55,
+        "role": "leave"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "ind": 488,
+        "role": "root"
+      },
+      {
+        "ind": 488,
+        "role": "root"
+      },
+      {
+        "ind": 488,
+        "role": "leave"
+      },
+      {
+        "ind": 488,
+        "role": "leave"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "ind": 502,
+        "role": "root"
+      },
+      {
+        "ind": 502,
+        "role": "root"
+      },
+      {
+        "ind": 502,
+        "role": "leave"
+      },
+      {
+        "ind": 502,
+        "role": "leave"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "ind": 540,
+        "role": "root"
+      },
+      {
+        "ind": 540,
+        "role": "root"
+      },
+      {
+        "ind": 540,
+        "role": "leave"
+      },
+      {
+        "ind": 540,
+        "role": "leave"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      }
+    ],
+    "dependence": [
+      {
+        "index": 0,
+        "root": "Nhà Thờ",
+        "leaves": [
+          "Lớn"
+        ]
+      },
+      {
+        "index": 8,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "phồn hoa",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 11,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 24,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 40,
+        "root": "Việt Nam",
+        "leaves": [
+          "đẹp"
+        ]
+      },
+      {
+        "index": 55,
+        "root": "chuyến đi",
+        "leaves": [
+          "thú vị"
+        ]
+      },
+      {
+        "index": 488,
+        "root": "buổi sáng",
+        "leaves": [
+          "đẹp trời"
+        ]
+      },
+      {
+        "index": 542,
+        "root": "quán cafe",
+        "leaves": [
+          "xịn xò"
+        ]
+      },
+      {
+        "index": 502,
+        "root": "quán cafe",
+        "leaves": [
+          "xịn xò"
+        ]
+      }
+    ],
+    "currentIndex": 6
+  },
+  {
+    "data": [
+      "Nguyễn",
+      "Hà",
+      "My‎",
+      "Việt",
+      "Nam",
+      "Ơi!",
+      "14",
+      "giờ",
+      "·",
+      "Đang",
+      "theo",
+      "dõi",
+      "Theo",
+      "dõi",
+      "Tùy",
+      "chọn",
+      "khác"
+    ],
+    "tagData": [
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "B-Time",
+      "I-Time",
+      "O",
+      "B-Activity",
+      "I-Activity",
+      "I-Activity",
+      "B-Activity",
+      "I-Activity",
+      "O",
+      "O",
+      "O"
+    ],
+    "colorData": [
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "#1E90FF",
+      "#1E90FF",
+      "white",
+      "#00CED1",
+      "#00CED1",
+      "#00CED1",
+      "#00CED1",
+      "#00CED1",
+      "white",
+      "white",
+      "white"
+    ],
+    "dependenceData": [
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      }
+    ],
+    "dependence": [
+      {
+        "index": 0,
+        "root": "Nhà Thờ",
+        "leaves": [
+          "Lớn"
+        ]
+      },
+      {
+        "index": 9,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "phồn hoa",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 13,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 26,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 42,
+        "root": "Việt Nam",
+        "leaves": [
+          "đẹp"
+        ]
+      },
+      {
+        "index": 57,
+        "root": "chuyến đi",
+        "leaves": [
+          "thú vị"
+        ]
+      },
+      {
+        "index": 490,
+        "root": "buổi sáng",
+        "leaves": [
+          "đẹp trời"
+        ]
+      },
+      {
+        "index": 544,
+        "root": "quán cafe",
+        "leaves": [
+          "xịn xò"
+        ]
+      },
+      {
+        "index": 504,
+        "root": "quán cafe",
+        "leaves": [
+          "xịn xò"
+        ]
+      }
+    ],
+    "currentIndex": 7
+  },
+  {
+    "data": [
+      "Nguyen",
+      "Anh‎",
+      "Việt",
+      "Nam",
+      "Ơi!",
+      "14",
+      "giờ",
+      "·",
+      "Tùy",
+      "chọn",
+      "khác"
+    ],
+    "tagData": [
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "B-Time",
+      "I-Time",
+      "O",
+      "O",
+      "O",
+      "O"
+    ],
+    "colorData": [
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "#1E90FF",
+      "#1E90FF",
+      "white",
+      "white",
+      "white",
+      "white"
+    ],
+    "dependenceData": [
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      }
+    ],
+    "dependence": [
+      {
+        "index": 0,
+        "root": "Nhà Thờ",
+        "leaves": [
+          "Lớn"
+        ]
+      },
+      {
+        "index": 10,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "phồn hoa",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 14,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 27,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 43,
+        "root": "Việt Nam",
+        "leaves": [
+          "đẹp"
+        ]
+      },
+      {
+        "index": 58,
+        "root": "chuyến đi",
+        "leaves": [
+          "thú vị"
+        ]
+      },
+      {
+        "index": 491,
+        "root": "buổi sáng",
+        "leaves": [
+          "đẹp trời"
+        ]
+      },
+      {
+        "index": 545,
+        "root": "quán cafe",
+        "leaves": [
+          "xịn xò"
+        ]
+      },
+      {
+        "index": 505,
+        "root": "quán cafe",
+        "leaves": [
+          "xịn xò"
+        ]
+      }
+    ],
+    "currentIndex": 8
+  },
+  {
+    "data": [
+      "Đường",
+      "Hồ",
+      "Chí",
+      "Minh",
+      "đoạn",
+      "từ",
+      "ngã",
+      "ba",
+      "Đông",
+      "Dương",
+      "tỉnh",
+      "Kon",
+      "Tum",
+      "t",
+      "ới",
+      "huyện",
+      "Nam",
+      "Giang",
+      "tỉnh",
+      "Quảng",
+      "Nam",
+      ".",
+      "Cảnh",
+      "đẹp",
+      ",",
+      "trên",
+      "đường",
+      "có",
+      "nhiều",
+      "thác",
+      "nước",
+      ".",
+      "#vietnamoi"
+    ],
+    "tagData": [
+      "B-Address",
+      "I-Address",
+      "I-Address",
+      "I-Address",
+      "O",
+      "O",
+      "B-Address",
+      "I-Address",
+      "I-Address",
+      "I-Address",
+      "O",
+      "O",
+      "B-AttractionName",
+      "O",
+      "O",
+      "B-Address",
+      "I-Address",
+      "I-Address",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ],
+    "colorData": [
+      "#FFD700",
+      "#FFD700",
+      "#FFD700",
+      "#FFD700",
+      "white",
+      "white",
+      "#FFD700",
+      "#FFD700",
+      "#FFD700",
+      "#FFD700",
+      "white",
+      "white",
+      "#33FF57",
+      "white",
+      "white",
+      "#FFD700",
+      "#FFD700",
+      "#FFD700",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white"
+    ],
+    "dependenceData": [
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      }
+    ],
+    "dependence": [
+      {
+        "index": 0,
+        "root": "Nhà Thờ",
+        "leaves": [
+          "Lớn"
+        ]
+      },
+      {
+        "index": 10,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "phồn hoa",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 15,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 28,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 44,
+        "root": "Việt Nam",
+        "leaves": [
+          "đẹp"
+        ]
+      },
+      {
+        "index": 59,
+        "root": "chuyến đi",
+        "leaves": [
+          "thú vị"
+        ]
+      },
+      {
+        "index": 492,
+        "root": "buổi sáng",
+        "leaves": [
+          "đẹp trời"
+        ]
+      },
+      {
+        "index": 546,
+        "root": "quán cafe",
+        "leaves": [
+          "xịn xò"
+        ]
+      },
+      {
+        "index": 506,
+        "root": "quán cafe",
+        "leaves": [
+          "xịn xò"
+        ]
+      }
+    ],
+    "currentIndex": 9
+  },
+  {
+    "data": [
+      "Tết",
+      "đến",
+      "ngay",
+      "đầu",
+      "ngõ,",
+      "Tết",
+      "đến",
+      "bên",
+      "hiên",
+      "nhà.",
+      "#vietnamoi",
+      "#bentreoi",
+      "#tet"
+    ],
+    "tagData": [
+      "O",
+      "B-Activity",
+      "I-Activity",
+      "O",
+      "O",
+      "O",
+      "B-Activity",
+      "I-Activity",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ],
+    "colorData": [
+      "white",
+      "#00CED1",
+      "#00CED1",
+      "white",
+      "white",
+      "white",
+      "#00CED1",
+      "#00CED1",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white"
+    ],
+    "dependenceData": [
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      }
+    ],
+    "dependence": [
+      {
+        "index": 0,
+        "root": "Nhà Thờ",
+        "leaves": [
+          "Lớn"
+        ]
+      },
+      {
+        "index": 10,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "phồn hoa",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 15,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 28,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 44,
+        "root": "Việt Nam",
+        "leaves": [
+          "đẹp"
+        ]
+      },
+      {
+        "index": 59,
+        "root": "chuyến đi",
+        "leaves": [
+          "thú vị"
+        ]
+      },
+      {
+        "index": 492,
+        "root": "buổi sáng",
+        "leaves": [
+          "đẹp trời"
+        ]
+      },
+      {
+        "index": 546,
+        "root": "quán cafe",
+        "leaves": [
+          "xịn xò"
+        ]
+      },
+      {
+        "index": 506,
+        "root": "quán cafe",
+        "leaves": [
+          "xịn xò"
+        ]
+      }
+    ],
+    "currentIndex": 10
+  },
+  {
+    "data": [
+      "Cuối",
+      "tuần",
+      "lên",
+      "đồ",
+      "đi",
+      "nhà",
+      "thờ",
+      "lớn",
+      "chụp",
+      "ảnh",
+      "Noel",
+      "thôi",
+      "#vietnamoi"
+    ],
+    "tagData": [
+      "B-Time",
+      "I-Time",
+      "O",
+      "O",
+      "O",
+      "B-RestaurantName",
+      "I-RestaurantName",
+      "B-Description",
+      "B-Activity",
+      "I-Activity",
+      "I-Activity",
+      "O",
+      "O"
+    ],
+    "colorData": [
+      "#1E90FF",
+      "#1E90FF",
+      "white",
+      "white",
+      "white",
+      "#FF5733",
+      "#FF5733",
+      "#32CD32",
+      "#00CED1",
+      "#00CED1",
+      "#00CED1",
+      "white",
+      "white"
+    ],
+    "dependenceData": [
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "ind": 5,
+        "role": "root"
+      },
+      {
+        "ind": 5,
+        "role": "root"
+      },
+      {
+        "ind": 5,
+        "role": "leave"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      }
+    ],
+    "dependence": [
+      {
+        "index": 0,
+        "root": "Nhà Thờ",
+        "leaves": [
+          "Lớn"
+        ]
+      },
+      {
+        "index": 10,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "phồn hoa",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 15,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 28,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 44,
+        "root": "Việt Nam",
+        "leaves": [
+          "đẹp"
+        ]
+      },
+      {
+        "index": 59,
+        "root": "chuyến đi",
+        "leaves": [
+          "thú vị"
+        ]
+      },
+      {
+        "index": 492,
+        "root": "buổi sáng",
+        "leaves": [
+          "đẹp trời"
+        ]
+      },
+      {
+        "index": 546,
+        "root": "quán cafe",
+        "leaves": [
+          "xịn xò"
+        ]
+      },
+      {
+        "index": 506,
+        "root": "quán cafe",
+        "leaves": [
+          "xịn xò"
+        ]
+      },
+      {
+        "index": 5,
+        "root": "nhà thờ",
+        "leaves": [
+          "lớn"
+        ]
+      }
+    ],
+    "currentIndex": 11
+  },
+  {
+    "data": [
+      "Còn",
+      "2",
+      "tháng",
+      "nữa",
+      "thôi",
+      "là",
+      "được",
+      "về",
+      "nhà",
+      "ăn",
+      "tết",
+      "rồi",
+      "😁",
+      "📷:",
+      "Thanh",
+      "Dat",
+      "Phan",
+      "#vietnamoi",
+      "#tiengiangoi"
+    ],
+    "tagData": [
+      "O",
+      "B-Time",
+      "I-Time",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-Activity",
+      "I-Activity",
+      "I-Activity",
+      "I-Activity",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ],
+    "colorData": [
+      "white",
+      "#1E90FF",
+      "#1E90FF",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#00CED1",
+      "#00CED1",
+      "#00CED1",
+      "#00CED1",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white"
+    ],
+    "dependenceData": [
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      }
+    ],
+    "dependence": [
+      {
+        "index": 0,
+        "root": "Nhà Thờ",
+        "leaves": [
+          "Lớn"
+        ]
+      },
+      {
+        "index": 10,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "phồn hoa",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 15,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 28,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 44,
+        "root": "Việt Nam",
+        "leaves": [
+          "đẹp"
+        ]
+      },
+      {
+        "index": 59,
+        "root": "chuyến đi",
+        "leaves": [
+          "thú vị"
+        ]
+      },
+      {
+        "index": 492,
+        "root": "buổi sáng",
+        "leaves": [
+          "đẹp trời"
+        ]
+      },
+      {
+        "index": 546,
+        "root": "quán cafe",
+        "leaves": [
+          "xịn xò"
+        ]
+      },
+      {
+        "index": 506,
+        "root": "quán cafe",
+        "leaves": [
+          "xịn xò"
+        ]
+      },
+      {
+        "index": 5,
+        "root": "nhà thờ",
+        "leaves": [
+          "lớn"
+        ]
+      }
+    ],
+    "currentIndex": 12
+  },
+  {
+    "data": [
+      "Cách",
+      "đây",
+      "mấy",
+      "năm",
+      "mình",
+      "có",
+      "dịp",
+      "chạy",
+      "xe",
+      "từ",
+      "Phan",
+      "Thiết",
+      "đi",
+      "qua",
+      "cung",
+      "đường",
+      "Bàu",
+      "Trắng",
+      "tuyệt",
+      "đẹp",
+      "rồi",
+      "vào",
+      "Quốc",
+      "Lộ",
+      "1A",
+      "để",
+      "đến",
+      "Ninh",
+      "Thuận",
+      ",",
+      "nhưng",
+      "sau",
+      "một",
+      "lần",
+      "tình",
+      "cờ",
+      "lướt",
+      "map",
+      "thì",
+      "mình",
+      "đã",
+      "nhận",
+      "ra",
+      "sự",
+      "thiếu",
+      "sót",
+      "khi",
+      "không",
+      "đi",
+      "vào",
+      "cung",
+      "đường",
+      "ven",
+      "biển",
+      "từ",
+      "Cà",
+      "Ná",
+      "đến",
+      "Mũi",
+      "Dinh",
+      ",",
+      "vậy",
+      "là",
+      "phải",
+      "đi",
+      "Ninh",
+      "Thuận",
+      "lại",
+      "thôi..",
+      "😆",
+      "Tạm",
+      "gác",
+      "lại",
+      "công",
+      "viên",
+      "đá",
+      "Đồng",
+      "Văn",
+      "thì",
+      "mùa",
+      "hè",
+      "chúng",
+      "ta",
+      "có",
+      "thể",
+      "đến",
+      "công",
+      "viên",
+      "đá",
+      "Núi",
+      "Chúa",
+      "nè.",
+      "Đường",
+      "chạy",
+      "xe",
+      "bên",
+      "bờ",
+      "biển",
+      "rất",
+      "đẹp",
+      "và",
+      "khi",
+      "tới",
+      "công",
+      "viên",
+      "đá",
+      "chỉ",
+      "cần",
+      "theo",
+      "dấu",
+      "giày",
+      "hoặc",
+      "dấu",
+      "bánh",
+      "xe",
+      "nha",
+      "(chứ",
+      "mình",
+      "cũng",
+      "suýt",
+      "lạc)",
+      "Ngoài",
+      "cung",
+      "đường",
+      "ven",
+      "biển",
+      "vịnh",
+      "Vĩnh",
+      "Hy",
+      "-",
+      "đảo",
+      "Bình",
+      "Hưng",
+      "nổi",
+      "tiếng",
+      "thì",
+      "Cà",
+      "Ná",
+      "-",
+      "Mũi",
+      "Dinh",
+      "cũng",
+      "là",
+      "nơi",
+      "đáng",
+      "để",
+      "các",
+      "bạn",
+      "trải",
+      "nghiệm",
+      "nha.",
+      "Để",
+      "chinh",
+      "phục",
+      "cung",
+      "đường",
+      "này",
+      "đó",
+      "là",
+      "cần",
+      "chuẩn",
+      "bị",
+      "một",
+      "bộ",
+      "đồ",
+      "chống",
+      "nắng",
+      "thật",
+      "tốt,",
+      "một",
+      "tay",
+      "lái",
+      "vững",
+      "chắc.",
+      "Vì",
+      "sao",
+      "ư?",
+      "vì",
+      "nắng",
+      "như",
+      "rang,",
+      "gió",
+      "như",
+      "phang",
+      "đó",
+      "các",
+      "bạn",
+      "😆",
+      "#VietNamOi",
+      "#NinhThuan",
+      "#PhanRang",
+      "#MuiDinh",
+      "#CaNa",
+      "#NuiChua"
+    ],
+    "tagData": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "B-Description",
+      "I-Description",
+      "O",
+      "O",
+      "B-Address",
+      "I-Address",
+      "I-Address",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "B-AttractionName",
+      "I-AttractionName",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "O"
+    ],
+    "colorData": [
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "#32CD32",
+      "#32CD32",
+      "white",
+      "white",
+      "#FFD700",
+      "#FFD700",
+      "#FFD700",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "#33FF57",
+      "#33FF57",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white"
+    ],
+    "dependenceData": [
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "ind": 16,
+        "role": "root"
+      },
+      {
+        "ind": 16,
+        "role": "root"
+      },
+      {
+        "ind": 16,
+        "role": "leave"
+      },
+      {
+        "ind": 16,
+        "role": "leave"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      },
+      {
+        "role": "O"
+      }
+    ],
+    "dependence": [
+      {
+        "index": 0,
+        "root": "Nhà Thờ",
+        "leaves": [
+          "Lớn"
+        ]
+      },
+      {
+        "index": 10,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "phồn hoa",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 15,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 28,
+        "root": "Măng Đen",
+        "leaves": [
+          "mộc mạc",
+          "thanh bình",
+          "vội vã",
+          "vội vã",
+          "phồn hoa"
+        ]
+      },
+      {
+        "index": 45,
+        "root": "Việt Nam",
+        "leaves": [
+          "đẹp"
+        ]
+      },
+      {
+        "index": 61,
+        "root": "chuyến đi",
+        "leaves": [
+          "thú vị"
+        ]
+      },
+      {
+        "index": 494,
+        "root": "buổi sáng",
+        "leaves": [
+          "đẹp trời"
+        ]
+      },
+      {
+        "index": 548,
+        "root": "quán cafe",
+        "leaves": [
+          "xịn xò"
+        ]
+      },
+      {
+        "index": 508,
+        "root": "quán cafe",
+        "leaves": [
+          "xịn xò"
+        ]
+      },
+      {
+        "index": 5,
+        "root": "nhà thờ",
+        "leaves": [
+          "lớn"
+        ]
+      },
+      {
+        "index": 16,
+        "root": "Bàu Trắng",
+        "leaves": [
+          "tuyệt đẹp"
+        ]
+      }
+    ],
+    "currentIndex": 13
+  },
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {}
+]
